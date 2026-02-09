@@ -8,4 +8,9 @@ public class Main {
 		String message = MessageGenerator.getMessage();
 		System.out.println(message);
 	}
+	
+	// for local testing only
+	private static String getDummyMessage() {
+		return "TEST MESSAGE";
+	}
 }

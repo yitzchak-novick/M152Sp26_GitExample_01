@@ -4,5 +4,5 @@
 /**
  * 
  */
-module GitExample_01 {
+module M152Sp26_GitExample_01 {
 }
