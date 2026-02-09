@@ -6,6 +6,6 @@ public class MessageGenerator {
 	}
 
 	public static String getMessage2() {
-		return "Happy Purim";
+		return "Freilichin Purim";
 	}
 }
