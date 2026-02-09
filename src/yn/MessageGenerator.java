@@ -2,7 +2,7 @@ package yn;
 
 public class MessageGenerator {
 	public static String getMessage() {
-		return "Happy Chanukah";
+		return "Happy Hanukah";
 	}
 
 	public static String getMessage2() {
