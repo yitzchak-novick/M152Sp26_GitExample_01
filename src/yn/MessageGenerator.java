@@ -1,11 +1,11 @@
 package yn;
 
 public class MessageGenerator {
-	public static String getMessage() {
-		return "Happy Hanukah";
+	public static String getHolidayMessage() {
+		return "Happy Holidays";
 	}
 
-	public static String getMessage2() {
-		return "Freilichin Purim";
+	public static String getPurimMessage() {
+		return "Happy Purim";
 	}
 }
