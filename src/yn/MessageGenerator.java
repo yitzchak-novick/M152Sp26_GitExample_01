@@ -2,11 +2,10 @@ package yn;
 
 public class MessageGenerator {
 	public static String getChanukahMessage() {
-		return "Freilichin Chanukah, lots of gelt";
-		
+		return "Freilichin Chanukah, lots of gifts";		
 	}
 
-	public static String getFreilichinPurimMessage() {
-		return "Freilichin Purim, ad dlo yodah!";
+	public static String getPurimMessage() {
+		return "Happy Purim, ad dlo yodah!";
 	}
 }
